@@ -1,2 +1,2 @@
 # poc_to_prod
-project
+This is my project. To run it, run the main of the app.py file in predict folder.
